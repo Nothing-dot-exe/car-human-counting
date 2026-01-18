@@ -6,7 +6,7 @@ This project uses **Ultralytics YOLOv8** and **OpenCV** to perform **real-time o
 
 ## 🧠 Features
 
-- ✅ Real-time detection using **YOLOv8 Nano** (fastest variant).  
+- ✅ Real-time detection using **YOLOv8 Nano** (fastest variant)
 - 🚗 Detects and counts **people** and **vehicles**.  
 - ⚡ Runs on **GPU (CUDA)** for high-speed inference.  
 - 💾 Logs all detected labels with timestamps to `detected_objects.txt`.  
