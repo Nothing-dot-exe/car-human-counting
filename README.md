@@ -133,4 +133,4 @@ And logs detections like this in `detected_objects.txt`:
 
 ## 📜 License
 
-This project is open-source and free to use under the **MIT License**.
+This project is open-source and free to use under the **MIT License**
