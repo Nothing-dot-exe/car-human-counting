@@ -1,5 +1,7 @@
 # 🚀 Real-Time Person & Vehicle Detection using YOLOv8 + OpenCV
 
+#new upadte with new file in new repo 
+
 This project uses **Ultralytics YOLOv8** and **OpenCV** to perform **real-time object detection** on videos or live webcam feeds. It identifies and counts **people** and **vehicles** (cars, trucks, buses, motorcycles), displaying detection results and FPS directly on the video stream.
 
 ---
