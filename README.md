@@ -121,17 +121,7 @@ And logs detections like this in `detected_objects.txt`:
 | `yolov8s.pt` | 21.2 MB | Fast | ~44.9 | Better accuracy |
 | `yolov8m.pt` | 49.0 MB | Medium | ~50.2 | Balanced |
 | `yolov8l.pt` | 83.7 MB | Slower | ~52.9 | High accuracy |
-
----
-
-## 🧑‍💻 Author
-
-**Amit Kadam**  
-📧 [kadamamit462@gmail.com](mailto:kadamamit462@gmail.com)  
-📍 Bhalki  
-🔗 [GitHub: piyushkadam96k](https://github.com/piyushkadam96k)
-
----
+--
 
 ## 📜 License
 
