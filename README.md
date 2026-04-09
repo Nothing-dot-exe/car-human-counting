@@ -16,7 +16,7 @@ This project uses **Ultralytics YOLOv8** and **OpenCV** to perform **real-time o
 
 ---
 
-Image preview : https://github.com/piyushkadam96k/car-human/blob/main/demo.jpeg
+Image preview : https://github.com/Nothing-dot-exe/car-human/blob/main/demo.jpeg
 
 
 
